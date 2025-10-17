@@ -9,3 +9,5 @@ https://github.com/nohamen/cookie-clicker-code/issues/
 https://github.com/nohamen/cookie-clicker-code/archives/
 
 ## Enjoy!
+
+[By Nohamen](https://github.com/nohamen)
