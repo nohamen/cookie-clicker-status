@@ -1,6 +1,6 @@
 # Cookie Clicker Code.
 
-## PLEASE NOTE: THIS IS FOR EDUCATIONAL PURPOSES ONLY.
+## PLEASE NOTE: IF I GET SUED FOR MAKING THIS THAT IS NOT MY PROBLEM.
 
 https://github.com/nohamen/cookie-clicker-status
 
